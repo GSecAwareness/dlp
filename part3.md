@@ -1,8 +1,10 @@
 # 🛡️ DLP Policy Creation (Based on Sensitive Info Type)
 
-## **Creating Classifiers**  
+## 🏷️**Creating Classifiers**  
 
 Navigate to **DLP > Classifiers > Sensitive Info Type**  
+
+## 📜**Creating the Policy**  
 
 Navigate to **DLP > Policies > Create Policy > Custom**  
 
