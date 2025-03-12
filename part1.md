@@ -29,5 +29,6 @@ To explore DLP in more detail, visit:
 🔗 [Learn about Data Loss Prevention | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp)  
 
 ---
+![get-content](https://github.com/GSecAwareness/dlp/blob/main/DLP.png)
 
 
