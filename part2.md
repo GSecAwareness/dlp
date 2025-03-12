@@ -5,15 +5,15 @@
 
 Navigate to **DLP > Policies > Create Policy**  
 Specify the following:  
-- **Categories:** 'Privacy`    
+- **Categories:** `Privacy`    
 - **Regulations:** `U.S. Patriot Act`
 ---
   ![get-content]( https://github.com/GSecAwareness/dlp/blob/main/US%20Patriot%20Act.png)
 
 ---
-- **Name:** ' U.S. Patriot Act (default) > Next
+- **Name:** `U.S. Patriot Act` (default) > Next
 - **Assign Admin Units:** default (you need an E5 license to create AU; users and groups is fine)
-- **Choose where to apply:** all except On-premises repositories > Next
+- **Choose where to apply:** all except `On-premises repositories` > Next
 - **Define Policy settings:** default (Review and customize…) > Next  
 - **Info to protect:** default > Next  
 - **Protection actions:** defaults  
@@ -32,7 +32,7 @@ Specify the following:
 
 ---
 
-- **Policy Mode:** Turn the policy on immediately
+- **Policy Mode:** `Turn the policy on immediately`
 ---
 ![get-content](https://github.com/GSecAwareness/dlp/blob/main/policy%20mode.png)  
 
