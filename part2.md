@@ -1,7 +1,7 @@
 
 # 🛡️ DLP Policy Creation (Based on Template)
 
-## **Creating the Policy**  
+## 📜**Creating the Policy**  
 
 Navigate to **DLP > Policies > Create Policy**  
 Specify the following:  
